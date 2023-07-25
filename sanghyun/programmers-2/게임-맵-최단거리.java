@@ -10,7 +10,7 @@ class Solution {
     public int solution(int[][] maps) {
         answer = 0;
         x = 0;
-        y = 0;
+        y = 0;a
         visited = new boolean[maps.length][maps.length];
         move(x,y,maps,0);
         if(maps[maps.length-1][maps.length-1] == 1) return -1;
