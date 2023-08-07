@@ -1,9 +1,9 @@
 import java.util.LinkedList;
 import java.util.Queue;
 
-class Solution {
+class Solution2 {
 
-   public static int solution(int[][] maps) {
+   public static int solution2(int[][] maps) {
 
         int[] dx = {0,1,-1,0};
         int[] dy = {1,0,0,-1};
@@ -49,6 +49,6 @@ class Solution {
         
     public static void main(String[] args) {
         int [][] x = {{1,0,1,1,1},{1,0,1,0,1},{1,0,1,1,1},{1,1,1,0,1},{0,0,0,0,1}}; 
-        System.out.println(solution(x));
+        System.out.println(solution2(x));
     }
 }   
