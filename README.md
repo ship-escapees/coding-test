@@ -4,6 +4,8 @@
 #
 ## 🤲🏻 스터디 멤버
 
+[![contributors](https://contrib.rocks/image?repo=ship-escapees/coding-test)](https://github.com/ship-escapees/coding-test/graphs/contributors)
+
 
 #
 ## ✅ 스터디 규칙
