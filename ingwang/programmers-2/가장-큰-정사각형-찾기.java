@@ -2,10 +2,9 @@ class Solution5 {
    public static int solution5(int [][]board) {
         int answer = 1;
         int min =0;
-        int total = 0;
-         
-        
-          if(board.length<=1 && board[0].length<=1){
+        int total =0;
+
+        if(board.length<=1 && board[0].length<=1){
             return 1;
         }
 
@@ -17,20 +16,18 @@ class Solution5 {
                 min = Math.min(Math.min(board[i-1][j],board[i][j-1]),board[i-1][j-1]);
                if(min !=0){
                    board[i][j]=min+1;
-                   if(answer<board[i][j]){
-                        answer = board[i][j];
-                   }
-                   
+                //    if(answer<board[i][j]){
+                //         answer = board[i][j];
+                //    }
+                answer = Math.max(answer, board[i][j]);
                }
-                total += board[i][j];
-
+               total += board[i][j];
             }
             
         }
-        if(total ==0){
-            return 0;
-        }
+
         return answer*answer;
+
   }
 
         
