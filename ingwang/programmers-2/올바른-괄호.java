@@ -16,7 +16,7 @@ class Solution6 {
                 return false;
             }
         }
-         if(result != 0){
+        if(result != 0){
             return false;
         }
         return answer;
