@@ -1,5 +1,5 @@
-class Solution {
-   public static String solution(int n) {
+class Solution1 {
+   public static String solution1(int n) {
 
         String[] num = {"4", "1", "2"};
         String answer = "";
@@ -16,6 +16,6 @@ class Solution {
 
         
     public static void main(String[] args) {
-        System.out.println(solution(20));
+        System.out.println(solution1(20));
     }
 }   
