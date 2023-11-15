@@ -1,8 +1,2 @@
 add: 프로그래머스  올바른-괄호 문제 풀이
 refactor: 프로그래머스 수박수박수박수 문제 리팩토링
-
-
-int a = 0;
-String a = "";
-int [] a = new int[]{1,2};
-String[][] a = new String[][]{{"yellow_hat", "headgear"},{"blue_sunglasses", "eyewear"},{"green_turban", "headgear"}};
