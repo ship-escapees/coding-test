@@ -1,6 +1,6 @@
 
 class Solution25 {
-    public static int solution18(int n, int a, int b) {
+    public static int solution25(int n, int a, int b) {
         int answer = 0;
         while (true) {
             if (a%2==0){
@@ -23,6 +23,6 @@ class Solution25 {
     }
 
     public static void main(String[] args) {
-        System.out.println(solution18(8,4,7));
+        System.out.println(solution25(8,4,7));
     }
 }
