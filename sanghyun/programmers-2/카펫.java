@@ -12,7 +12,7 @@ class Solution {
                     return new int[]{width, height};
                 }
             }
-        }
+        } 
         return answer;
     }
 }
