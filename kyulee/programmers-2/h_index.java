@@ -1,6 +1,6 @@
+import java.util.Arrays;
 
-
-public class h-index{
+public class h_index{
     public static int solution(int[]citations)
         {
             int hIdx=0;
