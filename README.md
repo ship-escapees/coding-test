@@ -31,16 +31,10 @@
 #
 ```
 ex)
-add: 프로그래머스 레벨1 수박수박수박수 문제 풀이
-refactor: 프로그래머스 레벨1 수박수박수박수 문제 리팩토링
+[5월 4주차] add: 프로그래머스 레벨1 수박수박수박수 문제 풀이
+[5월 4주차] refactor: 프로그래머스 레벨1 수박수박수박수 문제 리팩토링
 ```
 
-- PR Name : 이름 M월 N주차
-```
-ex)
-인광 7월 3주차 #9
-상현 7월 3주차 #10
-```
 
 ## 💻 문제
 [알고리즘 스터디 주차별 문제](https://docs.google.com/spreadsheets/d/1gyHzj52sjEYfiX8ya33k9zzuT_7ipfIdtFSEAh7N_K0/edit?usp=sharing)
