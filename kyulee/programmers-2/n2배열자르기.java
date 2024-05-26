@@ -1,5 +1,5 @@
 
-import java.util.*; 
+import java.util.*;
 
 public class n2배열자르기 {
     public class Solution {
